@@ -19,5 +19,6 @@
 9.This model can predict the weather in Dhaka for next three months(Nov Dec Jan) in any given time on hourly interval.
 So after the homepage is loaded give date and time as input. Predicted temperature will be shown.
 
-![Capture2](https://github.com/nasifuddin/WeatherAPP/assets/125158930/a2dda5e9-acbb-4aba-8c60-2356c14ebf0e)
+
 ![Capture1](https://github.com/nasifuddin/WeatherAPP/assets/125158930/1d7a9a61-51a2-45ad-be20-7a82ad304060)
+![Capture2](https://github.com/nasifuddin/WeatherAPP/assets/125158930/a2dda5e9-acbb-4aba-8c60-2356c14ebf0e)
